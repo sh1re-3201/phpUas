@@ -17,7 +17,7 @@ echo"<h1> Hai Temanku</h1>";
     </head>
     <body>
         <h2>Hai semuanya</h2>
-        
+        <p>Mengetes badges dalam readme</p>
         <script src="" async defer></script>
     </body>
 </html>
