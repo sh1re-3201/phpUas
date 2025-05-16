@@ -1,5 +1,6 @@
 # Proyek UAS Platform
-![Static Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue)
+![Static Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue) ![Static Badge](https://img.shields.io/badge/Language-PHP-lightblue)
+
 
 ## Tema: Aplikasi Manajemen Lowongan Pekerjaan
 
