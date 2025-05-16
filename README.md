@@ -9,6 +9,8 @@
 
 ## Tema: Aplikasi Manajemen Lowongan Pekerjaan
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sh1re-3201/phpUas)<br/>
+![GitHub watchers](https://img.shields.io/github/watchers/sh1re-3201/phpUas) <br/>
+
 
 ## Members!
 ![GitHub contributors](https://img.shields.io/github/contributors/sh1re-3201/phpUas)
