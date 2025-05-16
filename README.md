@@ -9,7 +9,7 @@
 ## Tema: Aplikasi Manajemen Lowongan Pekerjaan
 
 ## Members!
-![GitHub contributors](https://img.shields.io/github/active_contributors/sh1re-3201/phpUas)
+![GitHub contributors](https://img.shields.io/github/contributors/sh1re-3201/phpUas)
 
 sh1re-3201 <br/>
 FlorentinaAnggraeni <br/>
