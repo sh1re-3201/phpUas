@@ -9,10 +9,10 @@
 ## Members!
 ![GitHub contributors](https://img.shields.io/github/contributors/sh1re-3201/phpUas)
 
-sh1re-3201 \n
-FlorentinaAnggraeni \n
-Panii27 \n
-mariagres07 \n
+sh1re-3201 <br/>
+FlorentinaAnggraeni <br/>
+Panii27 <br/>
+mariagres07 <br/>
 
 ## Tools
 
