@@ -1,6 +1,8 @@
 # Proyek UAS Platform
 ![GitHub Created At](https://img.shields.io/github/created-at/sh1re-3201/phpUas)
-![Static Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue) ![Static Badge](https://img.shields.io/badge/Language-PHP-lightblue) ![Static Badge](https://img.shields.io/badge/Framework-Laravel-red)
+![Static Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue) 
+![Static Badge](https://img.shields.io/badge/Language-PHP-lightblue) 
+![Static Badge](https://img.shields.io/badge/Framework-Laravel-red)
 
 
 
@@ -16,13 +18,15 @@ mariagres07 <br/>
 
 ## Tools
 
-Language: PHP **8.12.2**
-MVC Framework: Laravel **12**
-UI/UX: Bootstrap/Tailwind
-DBMS: MySQL via PHPMyAdmin
+Language: PHP **8.12.2** <br/>
+MVC Framework: Laravel **12** <br/>
+UI/UX: Bootstrap/Tailwind <br/>
+DBMS: MySQL via PHPMyAdmin <br/>
 
 ##
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sh1re-3201/phpUas) ![GitHub last commit](https://img.shields.io/github/last-commit/sh1re-3201/phpUas) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/sh1re-3201/phpUas/master) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sh1re-3201/phpUas) 
+![GitHub last commit](https://img.shields.io/github/last-commit/sh1re-3201/phpUas) 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit-branch_Master/sh1re-3201/phpUas/master) 
 
 
 
