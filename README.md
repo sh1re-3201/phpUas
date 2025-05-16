@@ -1,4 +1,5 @@
 # Proyek UAS Platform
+# **SELALU FETCH AND PULL SEBELUM MENGERJAKAN**
 ![GitHub Created At](https://img.shields.io/github/created-at/sh1re-3201/phpUas)
 ![Static Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue) 
 ![Static Badge](https://img.shields.io/badge/Language-PHP-lightblue) 
