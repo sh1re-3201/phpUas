@@ -18,10 +18,10 @@
 
 ## Tools
 
-Language: PHP **8.12.2** <br/>
-MVC Framework: Laravel **12** <br/>
-UI/UX: Bootstrap/Tailwind <br/>
-DBMS: MySQL via PHPMyAdmin <br/>
+- Language: ![Static Badge](https://img.shields.io/badge/PHP-8.12.2-lightblue) 
+- MVC Framework: ![Static Badge](https://img.shields.io/badge/Laravel-12-red)
+- UI/UX: Bootstrap/Tailwind
+- DBMS: MySQL via PHPMyAdmin
 
 ##
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sh1re-3201/phpUas) 
