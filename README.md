@@ -31,10 +31,11 @@
 
 ## Tools
 
-- Language: ![Static Badge](https://img.shields.io/badge/PHP-8.12.2-lightblue) 
-- MVC Framework: ![Static Badge](https://img.shields.io/badge/Laravel-12-red)
-- UI/UX: Bootstrap/Tailwind
-- DBMS: MySQL via PHPMyAdmin
+- Language: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) 
+- MVC Framework: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&logo=laravel&logoColor=white)
+- UI/UX: ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
+- DBMS:![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
+ via PHPMyAdmin
 
 ##
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/sh1re-3201/phpUas) 
