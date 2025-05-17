@@ -2,8 +2,16 @@
 # **SELALU FETCH AND PULL SEBELUM MENGERJAKAN !!!!**
 ![GitHub Created At](https://img.shields.io/github/created-at/sh1re-3201/phpUas)
 ![Static Badge](https://img.shields.io/badge/Editor-Visual_Studio_Code-blue) 
-![Static Badge](https://img.shields.io/badge/Language-PHP-lightblue) 
-![Static Badge](https://img.shields.io/badge/Framework-Laravel-red)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&logo=laravel&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?&logo=Udemy&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
+
 
 
 
