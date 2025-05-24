@@ -31,7 +31,7 @@
 
 ## Tools
 
-- Language: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) 8.2
+- Language: ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) 8.12.2
 - MVC Framework: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&logo=laravel&logoColor=white) version 12
 - UI/UX: ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?&logo=bootstrap&logoColor=white)
 - DBMS:![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&logo=mysql&logoColor=white)
